@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIORADX Equipment Wholesaling (General Trading and Services)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #0056b3;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        nav {
+            background-color: #003c8f;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 50px 20px;
+           background-image: url('equipment.jpg');
+            background-size: cover;
+            background-position: center;
+            color: #333;
+        }
+
+        .hero h2 {
+            font-size: 2.5rem;
+        }
+
+        .section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 1200px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            background-color: #003c8f;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BIORADX Equipment Wholesaling</h1>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Our Products</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section class="hero">
+        <h2>Your Trusted Partner in Medical Equipment</h2>
+        <p>Providing High-Quality Diagnostic and Imaging Tools at Competitive Prices</p>
+    </section>
+    <section id="about" class="section">
+   <h2>About Us</h2>
+        <p>At BIORADX Equipment Wholesaling, we specialize in providing top-tier medical and diagnostic equipment to healthcare facilities. Our mission is to ensure that every client has access to reliable, cutting-edge tools for patient care.</p>
+    </section>
+    <section id="services" class="section">
+        <h2>Our Products and Services</h2>
+        <ul>
+            <li>X-ray and Imaging Systems</li>
+            <li>Ultrasound Machines</li>
+            <li>Laboratory Diagnostic Equipment</li>
+            <li>Radiation Measurement Devices</li>
+            <li>Consumables and Accessories</li>
+         <ul>
+            <li>Repair and Maintenance</li>
+            <li>Calibration</li>
+	    <li>Installation</li	
+        </ul>
+    </section>
+    <section id="contact" class="section">
+        <h2>Contact Us</h2>
+        <p>For inquiries and orders, please reach out to us:</p>
+        <p>Email: <a href="mailto:bioradxew@gmail.com">bioradxew@gmail.com</a></p>
+        <p>Phone: +63 9569402596 </p>
+        <p>Address: Casuncad st.San Vicente Pili Camarines Sur, USA</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 BIORADX Equipment Wholesaling (General Trading and Services). All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
+
